@@ -9,3 +9,5 @@ Start from 5 instances and increase until your CPU hits 100% utilisation (use ha
 To execute the program, put both files in the same folder and then use commmand prompt to execute pistress.py and type in number of instances as per your requirement. 
 
 Do not run an exceptionally high number of instances and I am not responsible for any damaged hardware that you end up with if you choose to run this script. 
+
+Thanks!
